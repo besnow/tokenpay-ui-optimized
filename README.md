@@ -8,7 +8,7 @@ tokenpay的UI美化版本
 <a href="https://www.php.net/releases/7_4_0.php"><img src="https://img.shields.io/badge/.NET-6-orange" alt=".net6"></a>
 <a href="https://github.com/assimon/dujiaoka/releases/tag/1.0.0"><img src="https://img.shields.io/badge/version-1.0.0-red" alt="version 1.0.0"></a>
 </p>
-<h2 align="center">简体中文 | <a href="README_EN.md">English</a></h2>  
+
 
 ## TokenPay - `区块链`支付解决方案
 
