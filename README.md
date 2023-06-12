@@ -28,13 +28,7 @@
 - 支持每单一个收款地址，或每个用户一个收款地址，解决了单一地址收款，容易导致错误完成订单的痛点。
 - 无需额外环境配置，仅运行一个编译后二进制文件即可使用
 
-## 项目结构
-```
-TokenPay
-    ├── Plugs ---> (插件)
-    ├── Wiki ---> (知识库）
-    └── src ---> (项目核心目录)
-```
+
 ## 现有插件
 - [独角数卡插件](Plugs/dujiaoka/) | [独角数卡](https://github.com/assimon/dujiaoka) ![Github stars](https://img.shields.io/github/stars/assimon/dujiaoka?style=social)
 - [v2board插件](Plugs/v2board/) | [v2board](https://github.com/v2board/v2board) ![Github stars](https://img.shields.io/github/stars/v2board/v2board?style=social)
