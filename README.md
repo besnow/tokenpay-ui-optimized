@@ -1,5 +1,6 @@
 # tokenpay-ui-optimized
-tokenpay的UI美化版本
+这是tokenpay的UI美化版本
+原版作者链接：https://github.com/LightCountry/TokenPay
 
 
 ## TokenPay
